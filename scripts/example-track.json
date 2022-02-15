@@ -1,0 +1,14 @@
+[
+  {
+    "timestamp": 1644677008531,
+    "value": {
+      "accuracy": 10,
+      "altitude": 228,
+      "altitudeAccuracy": 12,
+      "heading": 278,
+      "latitude": 51,
+      "longitude": 13,
+      "speed": 10
+    }
+  }
+]
